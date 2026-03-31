@@ -22,6 +22,8 @@
         {
             Console.WriteLine($"Data {i + 1} berisi: {storedData[i]}, yang disimpan pada waktu: {inputDates[i]}");
         }
+    }
+}
         
 ﻿class PemrosesData
 {
